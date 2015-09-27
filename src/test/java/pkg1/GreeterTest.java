@@ -9,6 +9,6 @@ public class GreeterTest {
 	@Test
 	public void test_hello() {
 		Greeter g =  new Greeter();
-		assertThat(g.hello(), equalTo("Hello world"));
+		assertThat(g.hello(), equalTo("Hello world!!!!!!!!!!!!!!!!!!!!!"));
 	}
 }
