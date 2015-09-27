@@ -9,6 +9,6 @@ public class EaterTest {
 	@Test
 	public void test_eat() {
 		Eater e =  new Eater();
-		assertThat(e.eat(), equalTo("mgmg"));
+		assertThat(e.eat(), equalTo("mgmg!!!!!!!!!!!!!!!"));
 	}
 }
